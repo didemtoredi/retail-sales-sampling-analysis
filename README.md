@@ -23,7 +23,7 @@ This project evaluates different statistical sampling methods to estimate retail
 - Data Visualization
 
 ## Files
-- `sampling_methods_retail.html` — Full statistical analysis report
+[View Full Report](sampling_methods_retail.pdf)
 
 ## Key Insights
 - Stratified sampling improved estimation accuracy
